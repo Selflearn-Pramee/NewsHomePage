@@ -92,3 +92,59 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(This file is deleted in the folder and i stored here)
+
+
+React js.code-workspace
+
+
+
+
+{
+	"folders": [
+		{
+			"path": "../../../Desktop/React js"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../social-links-profile-main"
+		},
+		{
+			"path": "../../../../../Html"
+		},
+		{
+			"path": "../../../../../Html Project"
+		},
+		{
+			"path": "../../../Documents/Udemy Cources"
+		},
+		{
+			"path": "../../../Desktop/Full Stack Java/Html and bootstrap"
+		},
+		{
+			"path": "../../../Desktop/Full Stack Java/bootstrap-5.3.2-dist"
+		},
+		{
+			"path": "../../../Desktop/React native"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "news-homepage-main"
+	}
+}
